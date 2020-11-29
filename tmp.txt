@@ -1,0 +1,48 @@
+[   93.715667] IPv6: ADDRCONF(NETDEV_CHANGE): s1-eth2: link becomes ready
+[   93.715733] IPv6: ADDRCONF(NETDEV_CHANGE): client1-eth0: link becomes ready
+[   93.729947] IPv6: ADDRCONF(NETDEV_CHANGE): client2-eth0: link becomes ready
+[   93.738260] IPv6: ADDRCONF(NETDEV_CHANGE): client3-eth0: link becomes ready
+[   93.745325] IPv6: ADDRCONF(NETDEV_CHANGE): client4-eth0: link becomes ready
+[   93.750771] IPv6: ADDRCONF(NETDEV_CHANGE): client5-eth0: link becomes ready
+[   93.756544] IPv6: ADDRCONF(NETDEV_CHANGE): client6-eth0: link becomes ready
+[   93.765293] IPv6: ADDRCONF(NETDEV_CHANGE): client7-eth0: link becomes ready
+[   93.772355] IPv6: ADDRCONF(NETDEV_CHANGE): client8-eth0: link becomes ready
+[   93.780591] IPv6: ADDRCONF(NETDEV_CHANGE): client9-eth0: link becomes ready
+[   93.786687] IPv6: ADDRCONF(NETDEV_CHANGE): client10-eth0: link becomes ready
+[   93.791942] IPv6: ADDRCONF(NETDEV_CHANGE): client11-eth0: link becomes ready
+[   93.805546] IPv6: ADDRCONF(NETDEV_CHANGE): client12-eth0: link becomes ready
+[   93.811112] IPv6: ADDRCONF(NETDEV_CHANGE): client13-eth0: link becomes ready
+[   93.816202] IPv6: ADDRCONF(NETDEV_CHANGE): client14-eth0: link becomes ready
+[   93.824176] IPv6: ADDRCONF(NETDEV_CHANGE): client15-eth0: link becomes ready
+[   93.831431] IPv6: ADDRCONF(NETDEV_CHANGE): client16-eth0: link becomes ready
+[   93.837314] IPv6: ADDRCONF(NETDEV_CHANGE): client17-eth0: link becomes ready
+[   93.845271] IPv6: ADDRCONF(NETDEV_CHANGE): client18-eth0: link becomes ready
+[   93.850619] IPv6: ADDRCONF(NETDEV_CHANGE): client19-eth0: link becomes ready
+[   93.857449] IPv6: ADDRCONF(NETDEV_CHANGE): s1-eth1: link becomes ready
+[   93.863138] IPv6: ADDRCONF(NETDEV_CHANGE): s2-eth2: link becomes ready
+[   93.869726] IPv6: ADDRCONF(NETDEV_CHANGE): s2-eth1: link becomes ready
+[   93.957672] device ovs-system entered promiscuous mode
+[   93.974088] device s1-eth2 entered promiscuous mode
+[   93.974235] device s1-eth20 entered promiscuous mode
+[   93.974332] device s1-eth12 entered promiscuous mode
+[   93.974419] device s1-eth4 entered promiscuous mode
+[   93.974507] device s1-eth13 entered promiscuous mode
+[   93.974594] device s1-eth11 entered promiscuous mode
+[   93.974687] device s1-eth6 entered promiscuous mode
+[   93.974774] device s1-eth1 entered promiscuous mode
+[   93.974863] device s1-eth16 entered promiscuous mode
+[   93.974957] device s1-eth14 entered promiscuous mode
+[   93.975053] device s1-eth10 entered promiscuous mode
+[   93.975142] device s1-eth17 entered promiscuous mode
+[   93.975230] device s1-eth7 entered promiscuous mode
+[   93.975319] device s1-eth9 entered promiscuous mode
+[   93.975404] device s1-eth8 entered promiscuous mode
+[   93.975487] device s1-eth19 entered promiscuous mode
+[   93.975579] device s1-eth3 entered promiscuous mode
+[   93.975672] device s1-eth5 entered promiscuous mode
+[   93.975760] device s1-eth18 entered promiscuous mode
+[   93.975850] device s1-eth15 entered promiscuous mode
+[   93.977889] device s1 entered promiscuous mode
+[   93.978027] device s2-eth2 entered promiscuous mode
+[   93.978121] device s2-eth1 entered promiscuous mode
+[   93.982733] device s2 entered promiscuous mode
